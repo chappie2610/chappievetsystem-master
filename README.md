@@ -56,5 +56,6 @@ Create a new database naming chappievetsystem_db.
 Import the provided SQL file. The file is known as ovas_db.sql located inside the database folder.
 Browse the Online Veterinary Appointment System in a browser. i.e. http://localhost/chappievetsystem/
 Default Admin Access Information
+
 Username: admin
 Password: admin123
